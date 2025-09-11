@@ -1,0 +1,34 @@
+This is a larger test file for demonstrating FastShare's capabilities.
+
+FastShare is designed to be the fastest file sharing tool for local networks, built with Rust for maximum performance and reliability.
+
+Key features include:
+- Ultra-fast TCP-based transfers optimized for speed
+- Real-time progress tracking with beautiful progress bars
+- Cross-platform compatibility (Windows, macOS, Linux)
+- Simple and intuitive command-line interface
+- Automatic network detection and setup
+- Human-readable file size formatting
+- Robust error handling and recovery
+
+Perfect use cases:
+- Sharing large documents between devices
+- Transferring photos and videos quickly
+- Moving files between development machines
+- Sharing presentations before meetings
+- Quick file backups across devices
+
+Technical details:
+- Uses 64KB chunks for optimal throughput
+- Implements efficient async I/O with Tokio
+- Minimal protocol overhead for maximum speed
+- Direct TCP streaming without unnecessary compression
+- Progress tracking with minimal performance impact
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+
+Additional content to make this file larger and more representative of real-world usage scenarios. FastShare handles files of any size efficiently, from small text documents to large media files, presentations, and data archives. The progress bar provides real-time feedback on transfer speed, estimated time remaining, and bytes transferred, making it easy to monitor large file transfers.
+
+This concludes our demonstration file. Thank you for trying FastShare!
